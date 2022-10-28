@@ -14,9 +14,10 @@ Today we will apply this concept to data science.
 
 You will be given a dataset and teams will be randomly assigned to one constraint: samples, features, or algorithm.
 
+Presentation Deck: [Click](https://docs.google.com/presentation/d/1SkWwls8gBa2VakGIwabIL0y9Q5GT9rLzUgtzvFuXTvg/edit#slide=id.p)
 ---
 
-### Team Sample Constraint
+### Team Sample Constraint: **Our Team**
 - Your choice of algorithm
 - Your choice of features
 - **Must use the cheap train sample**
